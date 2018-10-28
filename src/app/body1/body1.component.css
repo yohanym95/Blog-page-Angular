@@ -1,0 +1,31 @@
+.body-header{
+    font-size: 15px;
+	font-family: 'Handlee', cursive;
+	background-color: #3fb6b2;
+	margin: 0;
+	padding: 0; 
+	
+} 
+.image-block{ 
+
+    background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+ 
+}
+.img-circle{
+
+    width: 200px;
+	height: 200px;
+	border:3px solid white;
+    border-radius: 50px;
+}
+.name-block{
+	font-size: 30px;
+	font-family: 'Handlee', cursive;
+	background-color:#fff;
+}
