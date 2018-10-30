@@ -1,0 +1,59 @@
+.body-header{
+    font-size: 15px;
+	font-family: 'Handlee', cursive;
+	background-color: #3fb6b2;
+	margin: 0;
+	padding: 0; 
+}
+.tittle-block{
+    background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+h1{
+    background-color: #fff; 
+}
+
+h1 span{
+
+    color: #3fb6b2;
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 25px;
+}
+.skill-block{
+    text-align: left;
+    background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+ul{
+    margin-left: 20px;
+    background-color: #fff;
+}
+ul li{
+    background-color: #fff;
+    margin-bottom: 15px;
+	font-weight: bold;
+}
+
+progress {
+	height: 20px;
+	width: 900px;
+	color: #5d21e9;
+    background-color: #fff;
+}
+    
+progress[value]::-webkit-progress-bar{
+    color: #5d21e9;
+    background-color: lightgray;
+}
